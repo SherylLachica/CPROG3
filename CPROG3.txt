@@ -1,0 +1,25 @@
+# Declare and initialize personal details
+name = "Sheryl Lachica"
+age = '21'
+course = "BSCS"
+year_section = "2-A"
+address = "Esperanza Culasi"
+sex = "Female"
+school_id = "2024-0728-T"
+zip_code = "5708"
+birthday = "April 17, 2004"
+email = "sheryllachica.b@gmail.com"
+
+# Display personal details
+print("Personal Details")
+print("-------------------------")
+print("Name:", name)
+print("Age:", age)
+print("Course:", course)
+print("Year and Section:", year_section)
+print("Address:", address)
+print("Sex:", sex)
+print("School ID Number:", school_id)
+print("Zip Code:", zip_code)
+print("Birthday:", birthday)
+print("Email:", email)
